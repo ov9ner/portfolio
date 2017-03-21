@@ -37,6 +37,24 @@
     margin-right: auto;
     text-align: center;
   }
+  .font-sizer-1 {
+    font-size: 230%;
+  }
+  .font-sizer0 {
+    font-size: 110%;
+  }
+  .font-sizer1 {
+    font-size: 200%;
+  }
+  .font-sizer2 {
+    font-size: 100%;
+  }
+  .font-sizer3 {
+    font-size: 130%;
+  }
+  .font-sizer4 {
+    font-size: 120%;
+  }
 }
 
 .valid {
